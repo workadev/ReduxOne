@@ -1,0 +1,3 @@
+rootProject.name = 'reduxone'
+
+include ':app'
